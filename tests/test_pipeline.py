@@ -1,6 +1,6 @@
 import numpy as np
 
-from pdf_search.ingestion.models import PageContent, TextChunk
+from pdf_search.ingestion.utils import PageContent, TextChunk
 from pdf_search.ingestion.pipeline import IngestionPipeline
 
 

@@ -5,7 +5,7 @@ import pytesseract
 from PIL import Image
 
 from pdf_search.config import OCR_DPI, OCR_LANGUAGE, OCR_MIN_TEXT_LENGTH
-from pdf_search.ingestion.models import PageContent
+from pdf_search.ingestion.utils import PageContent
 
 
 class PdfExtractor:

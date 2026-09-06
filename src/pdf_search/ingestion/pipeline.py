@@ -6,7 +6,7 @@ from pdf_search.config import DEFAULT_STORAGE_DIR, MODEL_NAME
 from pdf_search.ingestion.chunker import TextChunker
 from pdf_search.ingestion.embedder import EmbeddingModel
 from pdf_search.ingestion.extractor import PdfExtractor
-from pdf_search.ingestion.models import TextChunk
+from pdf_search.ingestion.utils import TextChunk
 from pdf_search.search.faiss_store import FaissVectorStore, create_index
 
 

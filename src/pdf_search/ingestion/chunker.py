@@ -1,5 +1,5 @@
 from pdf_search.config import CHUNK_OVERLAP, CHUNK_SIZE
-from pdf_search.ingestion.models import PageContent, TextChunk
+from pdf_search.ingestion.utils import PageContent, TextChunk
 
 
 class TextChunker:

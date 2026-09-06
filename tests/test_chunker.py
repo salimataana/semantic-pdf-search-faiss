@@ -1,5 +1,5 @@
 from pdf_search.ingestion.chunker import TextChunker
-from pdf_search.ingestion.models import PageContent
+from pdf_search.ingestion.utils import PageContent
 
 
 def test_text_chunker():
