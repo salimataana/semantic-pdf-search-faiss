@@ -1,7 +1,7 @@
 import numpy as np
 
-from pdf_search.ingestion.utils import PageContent, TextChunk
 from pdf_search.ingestion.pipeline import IngestionPipeline
+from pdf_search.ingestion.utils import PageContent, TextChunk
 
 
 class FakeExtractor:
