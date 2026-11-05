@@ -1,4 +1,4 @@
-# Technical Test - Datapolitics
+# semantic-pdf-search-faiss
 
 [![CI](https://github.com/salimataana/technical-test-datapolitics/actions/workflows/ci.yml/badge.svg)](https://github.com/salimataana/technical-test-datapolitics/actions/workflows/ci.yml)
 

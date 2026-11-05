@@ -1101,7 +1101,7 @@ wheels = [
 ]
 
 [[package]]
-name = "technical-test-datapolitics"
+name = "semantic-pdf-search-faiss"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
